@@ -24,3 +24,11 @@ owners.yml
 
 `
 
+
+
+Install manga from mangal
+
+install mangal from https://github.com/metafates/mangal
+
+use command "mangal sources install" to install multiple sources(by default only some are give)
+
